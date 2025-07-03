@@ -44,56 +44,56 @@ const NOTIFICATION_EMAIL = 'buyznx@gmail.com';
 const PRICING = {
     followers: {
         tiktok: [
-            { amount: 1000, price: 5 },
+            { amount: 1000, price: 4 },
             { amount: 2500, price: 10 },
-            { amount: 5000, price: 18 },
+            { amount: 5000, price: 15 },
             { amount: 10000, price: 30 },
-            { amount: 25000, price: 65 },
-            { amount: 50000, price: 120 }
+            { amount: 25000, price: 70 },
+            { amount: 50000, price: 125 }
         ],
         instagram: [
-            { amount: 1000, price: 5 },
+            { amount: 1000, price: 4 },
             { amount: 2500, price: 10 },
-            { amount: 5000, price: 18 },
+            { amount: 5000, price: 15 },
             { amount: 10000, price: 30 },
-            { amount: 25000, price: 65 },
-            { amount: 50000, price: 120 }
+            { amount: 25000, price: 70 },
+            { amount: 50000, price: 125 }
         ]
     },
     likes: {
         tiktok: [
-            { amount: 1000, price: 2 },
-            { amount: 2500, price: 4 },
-            { amount: 5000, price: 7 },
-            { amount: 10000, price: 12 },
-            { amount: 25000, price: 25 },
-            { amount: 50000, price: 45 }
+            { amount: 1000, price: 1 },
+            { amount: 2500, price: 2.50 },
+            { amount: 5000, price: 4 },
+            { amount: 10000, price: 6 },
+            { amount: 25000, price: 12 },
+            { amount: 50000, price: 20 }
         ],
         instagram: [
-            { amount: 1000, price: 2 },
-            { amount: 2500, price: 4 },
-            { amount: 5000, price: 7 },
-            { amount: 10000, price: 12 },
-            { amount: 25000, price: 25 },
-            { amount: 50000, price: 45 }
+            { amount: 1000, price: 1 },
+            { amount: 2500, price: 2.50 },
+            { amount: 5000, price: 4 },
+            { amount: 10000, price: 6 },
+            { amount: 25000, price: 12 },
+            { amount: 50000, price: 20 }
         ]
     },
     views: {
         tiktok: [
-            { amount: 10000, price: 3 },
-            { amount: 25000, price: 6 },
-            { amount: 50000, price: 10 },
-            { amount: 100000, price: 18 },
-            { amount: 250000, price: 35 },
-            { amount: 500000, price: 60 }
+            { amount: 10000, price: 1 },
+            { amount: 25000, price: 2 },
+            { amount: 50000, price: 3 },
+            { amount: 100000, price: 5 },
+            { amount: 250000, price: 9 },
+            { amount: 500000, price: 18 }
         ],
         instagram: [
-            { amount: 10000, price: 3 },
-            { amount: 25000, price: 6 },
-            { amount: 50000, price: 10 },
-            { amount: 100000, price: 18 },
-            { amount: 250000, price: 35 },
-            { amount: 500000, price: 60 }
+            { amount: 10000, price: 1 },
+            { amount: 25000, price: 2 },
+            { amount: 50000, price: 3 },
+            { amount: 100000, price: 5 },
+            { amount: 250000, price: 9 },
+            { amount: 500000, price: 18 }
         ]
     }
 };
